@@ -5,7 +5,7 @@ int main() {
     char carta [5] = "A01";
     char cidade1[20] = "Belem";
     int populacao1 = 1398531;
-    float area1 = 1.0859;
+    float area1 = 1.085;
     float pib = 33.000000000
     int pontos_turisticos = 50;
 
